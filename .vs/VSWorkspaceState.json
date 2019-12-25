@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\the_weather\\.idea",
+    "\\the_weather\\weather",
+    "\\the_weather\\weather\\migrations",
+    "\\the_weather\\weather\\migrations\\__pycache__",
+    "\\the_weather\\weather\\templates",
+    "\\the_weather\\weather\\templates\\weather"
+  ],
+  "PreviewInSolutionExplorer": false
+}
